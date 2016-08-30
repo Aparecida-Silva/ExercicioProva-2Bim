@@ -8,10 +8,6 @@ Tabuada de 5:
 ...
 5 X 10 = 50
 '''
-
-print("Questão 12")
-print("")
-
 x = int(input("Informe de qual número você deseja ver a tabuada: "))
 
 if (x >= 1 and x <= 10):
@@ -22,5 +18,6 @@ if (x >= 1 and x <= 10):
         print(x, "X", var, "=", mult)
         var = var + 1
 else:
-    print("Números Inválidos!")
+    print("O número informado é inválido!")
+    print("Por favor, informe um número entre 1 e 10!")
         
