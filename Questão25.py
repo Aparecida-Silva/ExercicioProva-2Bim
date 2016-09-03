@@ -14,6 +14,7 @@ while (a < Npessoa):
 	soma = soma + idade
 	a = a + 1
 media = soma / a
+print("")
 print("A média é:", media, "anos")
 
 if (media > 0 and media <= 26):
