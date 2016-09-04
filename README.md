@@ -1,2 +1,2 @@
 # ExercicioProva2-Bim
-Neste repositório estará os exercícios da lista python: 11-40
+-Este repositório apresentará as questões do Exercício Python (16-40). Valendo 3,0 para a primeira nota do 2º Bimestre -Exercício Python Brasil -Estrutura de Repetição
